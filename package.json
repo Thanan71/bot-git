@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Thanan71/bot-git/issues"
   },
-  "homepage": "https://github.com/Thanan71/bot-git#readme"
+  "homepage": "https://github.com/Thanan71/bot-git#readme",
+  "start": "node index.js"
 }
